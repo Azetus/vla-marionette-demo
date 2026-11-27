@@ -1,0 +1,5 @@
+{
+  "minecraftVersionDir": "<path-to-installed-neoforge-version-directory>",
+  "worldSource": "<path-to-closed-test-world-containing-level.dat>",
+  "java": "<path-to-java-25-bin/java.exe>"
+}

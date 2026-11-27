@@ -1,0 +1,10 @@
+.venv/
+.cache/
+runs/
+config.local.json
+__pycache__/
+
+# Optional local checkpoint, bridge JAR and Minecraft saves
+*.ckpt
+*.jar
+saves/
